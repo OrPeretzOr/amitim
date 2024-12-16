@@ -1,0 +1,19 @@
+.container {
+  display: grid;  
+  grid-template-rows: 50px 1fr 50px; /* ה-gird יכיל שלוש שורות: header, content, footer */
+  grid-gap: 3px;
+  height: 100vh; /* לוודא של-container יש גובה של מסך מלא */
+}
+
+.header {
+  background-color: #f0f0f0; /* צבע רקע עבור ה-header */
+}
+
+.content {
+  background-color: #ccc;
+}
+
+.footer {
+  background-color: #f0f0f0; /* צבע רקע עבור ה-footer */
+  margin-top: auto; /* דאג שה-footer יידבק לתחתית */
+}
