@@ -5,7 +5,7 @@ function Footer() {
 
     return (
         <div className='footer-container'>
-            footer
+            אופציות נוספות
         </div>
     )
 

@@ -1,0 +1,36 @@
+.choose-car-header {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.choose-car-secondary-header {
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.vehicle-btn {
+    width: 250px;
+    height: 250px;
+    /* margin: 60px; */
+    border-radius: 50%;
+    box-shadow: 0 0 3px 8px rgba(174, 207, 223, 0.5);
+    background-color:#f5f3ec;
+    display: flex; /* הפיכת האלמנט ל-Flex container */
+    justify-content: center; /* למרכז אופקית */
+    align-items: center; /* למרכז אנכית */
+    margin: auto;
+}
+
+.car-container {
+    text-align: center;
+}
+
+.vehicle-img {
+    width: 170px;
+    height: 120px;
+}
+
+.vehicle-name {
+    font-weight: bold;
+}

@@ -1,6 +1,10 @@
 .header-container {
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: center;
-}
+    font-family: 'Impact', sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    }
+
 
