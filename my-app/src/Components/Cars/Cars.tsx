@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './Cars.css'
-import car from '../assets/Citroen-C4-2024.png'
+import car from '../../assets/Citroen-C4-2024.png'
 
 function Cars({name, cars} : {name: string, cars: any}) {
 

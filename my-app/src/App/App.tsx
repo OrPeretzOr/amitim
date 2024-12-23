@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import './App.css'
-import Header from '../Header/Header'
-import Pazam from '../Pazam/Pazam'
-import Footer from '../Footer/Footer'
-import Cars from '../Cars/Cars'
+import Header from '../Components/Header/Header'
+import Pazam from '../Components/Pazam/Pazam'
+import Footer from '../Components/Footer/Footer'
+import Cars from '../Components/Cars/Cars'
 
 function App() {
   const points = 4;

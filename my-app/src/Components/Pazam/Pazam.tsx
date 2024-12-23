@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './Pazam.css'
-import { rankToTitle } from '../rankToTitle';
+import { rankToTitle } from '../../rankToTitle';
 
 function Pazam({points}: {points: number}) {
 
